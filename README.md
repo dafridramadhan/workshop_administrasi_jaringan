@@ -1,1 +1,1 @@
-# Repository untuk tugas Workshop Administrasi Jaringan
+# Repository Workshop Administrasi Jaringan
